@@ -1,0 +1,21 @@
+.DS_Store
+work/
+tmp/
+*.tmp
+*.lock
+__pycache__/
+*.py[cod]
+
+# Personal reading data stays outside the public skill repository.
+library/*
+!library/books/
+library/books/*
+!library/books/.gitkeep
+
+# Prevent accidental publication of source books and generated records.
+*.pdf
+*.epub
+*.mobi
+*.azw
+*.azw3
+*.docx

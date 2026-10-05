@@ -1,0 +1,4 @@
+interface:
+  display_name: "Personal Book Intelligence"
+  short_description: "把书变成深度书解 个人问答 单页卡片和跨书概念连接"
+  default_prompt: "Use $artifact-template-deep-reading to analyze this book, guide my reflection, create the four-file record, and update the cross-book concept index."
